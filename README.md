@@ -1,2 +1,2 @@
 # fullstack-blog
-Mini block written in Express (Node) using a database MongoDB
+Мини-блок разработан на Express (Node) с использованием базы данных MongoDB + Mongoose в соответствии с учебным планом
